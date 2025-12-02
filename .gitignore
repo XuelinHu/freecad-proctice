@@ -1,0 +1,46 @@
+# FreeCAD ignore file
+
+# Backup files
+*.FCBak
+*.fc.bak
+
+# Export formats (can be regenerated from .FCStd files)
+*.step
+*.STEP
+*.stp
+*.STP
+*.3mf
+*.3MF
+*.stl
+*.STL
+*.obj
+*.OBJ
+*.ply
+*.PLY
+*.x3d
+*.X3D
+*.dae
+*.DAE
+
+# Temporary files
+*.tmp
+*.temp
+
+# FreeCAD crash files
+*.FCStd1
+*.FCStd2
+*.FCStd3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
