@@ -25,6 +25,8 @@
 # Temporary files
 *.tmp
 *.temp
+__pycache__/
+*.pyc
 
 # FreeCAD crash files
 *.FCStd1
