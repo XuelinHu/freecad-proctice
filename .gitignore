@@ -21,6 +21,18 @@
 *.X3D
 *.dae
 *.DAE
+*.iges
+*.IGES
+*.igs
+*.IGS
+
+# Renders and screenshots (regenerable; not source)
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
 
 # Temporary files
 *.tmp
@@ -32,6 +44,8 @@ __pycache__/
 *.FCStd1
 *.FCStd2
 *.FCStd3
+# FreeCAD temp/recovery files (e.g. hook_1.FCStd.<uuid>)
+*.FCStd.*
 
 # System files
 .DS_Store
