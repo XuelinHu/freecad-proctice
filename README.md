@@ -9,3 +9,7 @@
 
 # freecad-proctice
 This repository contains my FreeCAD learning files, examples, and exercises.   It includes parametric modeling practice, sketches, constraints, assemblies, and exported STL models.
+
+## AI redraw versions
+
+All future AI-generated models use a sibling directory with an `AI_` prefix. For example, `box/box_1/` produces `box/AI_box_1/`. Each AI directory contains a `sketch/` version and a `partial_design/` version, with STL and STEP exports for the partial design. Run `tools/generate_ai_redesigns.py` with the bundled FreeCAD Python. The root index is `AI_redraw_manifest.json`.

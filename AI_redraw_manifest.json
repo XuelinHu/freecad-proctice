@@ -1,0 +1,542 @@
+[
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\box\\box_1\\box_1.FCStd",
+    "status": "generated",
+    "model_id": "AI_box_1",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_1\\sketch\\box_1_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_1\\partial_design\\box_1_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_1\\partial_design\\box_1_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_1\\partial_design\\box_1_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\box\\box_2\\box_2.FCStd",
+    "status": "generated",
+    "model_id": "AI_box_2",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_2\\sketch\\box_2_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_2\\partial_design\\box_2_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_2\\partial_design\\box_2_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_2\\partial_design\\box_2_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\box\\box_electronic_component\\box_electronic_component.FCStd",
+    "status": "generated",
+    "model_id": "AI_box_electronic_component",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_electronic_component\\sketch\\box_electronic_component_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_electronic_component\\partial_design\\box_electronic_component_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_electronic_component\\partial_design\\box_electronic_component_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_electronic_component\\partial_design\\box_electronic_component_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\box\\box_snic_esp32_1\\box_snic_esp32_1.FCStd",
+    "status": "generated",
+    "model_id": "AI_box_snic_esp32_1",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_snic_esp32_1\\sketch\\box_snic_esp32_1_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_snic_esp32_1\\partial_design\\box_snic_esp32_1_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_snic_esp32_1\\partial_design\\box_snic_esp32_1_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_snic_esp32_1\\partial_design\\box_snic_esp32_1_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\box\\box_usb_lines\\box_usb_lines.FCStd",
+    "status": "generated",
+    "model_id": "AI_box_usb_lines",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_usb_lines\\sketch\\box_usb_lines_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_usb_lines\\partial_design\\box_usb_lines_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_usb_lines\\partial_design\\box_usb_lines_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\box\\AI_box_usb_lines\\partial_design\\box_usb_lines_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\disk_bracket\\disk_bracket.FCStd",
+    "status": "generated",
+    "model_id": "AI_disk_bracket",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_disk_bracket\\sketch\\disk_bracket_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_disk_bracket\\partial_design\\disk_bracket_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_disk_bracket\\partial_design\\disk_bracket_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_disk_bracket\\partial_design\\disk_bracket_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\draft\\draft_1\\draft_1.FCStd",
+    "status": "generated",
+    "model_id": "AI_draft_1",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_1\\sketch\\draft_1_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_1\\partial_design\\draft_1_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_1\\partial_design\\draft_1_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_1\\partial_design\\draft_1_partial.step",
+    "outline_method": "bounding_box"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\draft\\draft_2\\draft_2.FCStd",
+    "status": "generated",
+    "model_id": "AI_draft_2",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_2\\sketch\\draft_2_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_2\\partial_design\\draft_2_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_2\\partial_design\\draft_2_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_2\\partial_design\\draft_2_partial.step",
+    "outline_method": "bounding_box"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\draft\\draft_3\\draft_3.FCStd",
+    "status": "generated",
+    "model_id": "AI_draft_3",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_3\\sketch\\draft_3_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_3\\partial_design\\draft_3_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_3\\partial_design\\draft_3_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_3\\partial_design\\draft_3_partial.step",
+    "outline_method": "bounding_box"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\draft\\draft_4\\draft_4.FCStd",
+    "status": "generated",
+    "model_id": "AI_draft_4",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_4\\sketch\\draft_4_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_4\\partial_design\\draft_4_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_4\\partial_design\\draft_4_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\draft\\AI_draft_4\\partial_design\\draft_4_partial.step",
+    "outline_method": "bounding_box"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\gear_1\\gear_1.FCStd",
+    "status": "generated",
+    "model_id": "AI_gear_1",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_gear_1\\sketch\\gear_1_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_gear_1\\partial_design\\gear_1_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_gear_1\\partial_design\\gear_1_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_gear_1\\partial_design\\gear_1_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\hinged_box_assembly.FCStd",
+    "status": "generated",
+    "model_id": "AI_hinged_box_assembly",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_assembly\\sketch\\hinged_box_assembly_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_assembly\\partial_design\\hinged_box_assembly_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_assembly\\partial_design\\hinged_box_assembly_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_assembly\\partial_design\\hinged_box_assembly_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\hinged_box_body.FCStd",
+    "status": "generated",
+    "model_id": "AI_hinged_box_body",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_body\\sketch\\hinged_box_body_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_body\\partial_design\\hinged_box_body_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_body\\partial_design\\hinged_box_body_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_body\\partial_design\\hinged_box_body_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\hinged_box_lid.FCStd",
+    "status": "generated",
+    "model_id": "AI_hinged_box_lid",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_lid\\sketch\\hinged_box_lid_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_lid\\partial_design\\hinged_box_lid_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_lid\\partial_design\\hinged_box_lid_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_lid\\partial_design\\hinged_box_lid_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\hinged_box_print_plate.FCStd",
+    "status": "generated",
+    "model_id": "AI_hinged_box_print_plate",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_print_plate\\sketch\\hinged_box_print_plate_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_print_plate\\partial_design\\hinged_box_print_plate_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_print_plate\\partial_design\\hinged_box_print_plate_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\hinged_box_no_pin\\output\\AI_hinged_box_print_plate\\partial_design\\hinged_box_print_plate_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\hook_1\\hook_1.FCStd",
+    "status": "generated",
+    "model_id": "AI_hook_1",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_hook_1\\sketch\\hook_1_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_hook_1\\partial_design\\hook_1_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_hook_1\\partial_design\\hook_1_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_hook_1\\partial_design\\hook_1_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\lego_model\\lego_model.FCStd",
+    "status": "generated",
+    "model_id": "AI_lego_model",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_lego_model\\sketch\\lego_model_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_lego_model\\partial_design\\lego_model_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_lego_model\\partial_design\\lego_model_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_lego_model\\partial_design\\lego_model_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\notebook_1\\notebook_1.FCStd",
+    "status": "generated",
+    "model_id": "AI_notebook_1",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_notebook_1\\sketch\\notebook_1_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_notebook_1\\partial_design\\notebook_1_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_notebook_1\\partial_design\\notebook_1_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_notebook_1\\partial_design\\notebook_1_partial.step",
+    "outline_method": "bounding_box"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\office_table_pen_rack\\office_table_pen_rack.FCStd",
+    "status": "generated",
+    "model_id": "AI_office_table_pen_rack",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_office_table_pen_rack\\sketch\\office_table_pen_rack_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_office_table_pen_rack\\partial_design\\office_table_pen_rack_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_office_table_pen_rack\\partial_design\\office_table_pen_rack_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_office_table_pen_rack\\partial_design\\office_table_pen_rack_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\paper_clip\\paper_clip.FCStd",
+    "status": "generated",
+    "model_id": "AI_paper_clip",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_paper_clip\\sketch\\paper_clip_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_paper_clip\\partial_design\\paper_clip_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_paper_clip\\partial_design\\paper_clip_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_paper_clip\\partial_design\\paper_clip_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\PC_backgroud_GPU\\PC_backgroud_GPU.FCStd",
+    "status": "generated",
+    "model_id": "AI_PC_backgroud_GPU",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_PC_backgroud_GPU\\sketch\\PC_backgroud_GPU_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_PC_backgroud_GPU\\partial_design\\PC_backgroud_GPU_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_PC_backgroud_GPU\\partial_design\\PC_backgroud_GPU_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_PC_backgroud_GPU\\partial_design\\PC_backgroud_GPU_partial.step",
+    "outline_method": "bounding_box"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\pedestal\\pedestal.FCStd",
+    "status": "generated",
+    "model_id": "AI_pedestal",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_pedestal\\sketch\\pedestal_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_pedestal\\partial_design\\pedestal_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_pedestal\\partial_design\\pedestal_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_pedestal\\partial_design\\pedestal_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\pencil_cap\\pencil_cap.FCStd",
+    "status": "generated",
+    "model_id": "AI_pencil_cap",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_pencil_cap\\sketch\\pencil_cap_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_pencil_cap\\partial_design\\pencil_cap_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_pencil_cap\\partial_design\\pencil_cap_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_pencil_cap\\partial_design\\pencil_cap_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\pipe\\pipe.FCStd",
+    "status": "generated",
+    "model_id": "AI_pipe",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_pipe\\sketch\\pipe_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_pipe\\partial_design\\pipe_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_pipe\\partial_design\\pipe_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_pipe\\partial_design\\pipe_partial.step",
+    "outline_method": "bounding_box"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\print_in_place_window_hinge.FCStd",
+    "status": "generated",
+    "model_id": "AI_print_in_place_window_hinge",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\AI_print_in_place_window_hinge\\sketch\\print_in_place_window_hinge_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\AI_print_in_place_window_hinge\\partial_design\\print_in_place_window_hinge_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\AI_print_in_place_window_hinge\\partial_design\\print_in_place_window_hinge_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\AI_print_in_place_window_hinge\\partial_design\\print_in_place_window_hinge_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\print_in_place_window_hinge_pair.FCStd",
+    "status": "generated",
+    "model_id": "AI_print_in_place_window_hinge_pair",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\AI_print_in_place_window_hinge_pair\\sketch\\print_in_place_window_hinge_pair_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\AI_print_in_place_window_hinge_pair\\partial_design\\print_in_place_window_hinge_pair_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\AI_print_in_place_window_hinge_pair\\partial_design\\print_in_place_window_hinge_pair_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\print_in_place_window_hinge\\output\\AI_print_in_place_window_hinge_pair\\partial_design\\print_in_place_window_hinge_pair_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\right_angle_pliers\\right_angle_pliers.FCStd",
+    "status": "generated",
+    "model_id": "AI_right_angle_pliers",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_right_angle_pliers\\sketch\\right_angle_pliers_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_right_angle_pliers\\partial_design\\right_angle_pliers_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_right_angle_pliers\\partial_design\\right_angle_pliers_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_right_angle_pliers\\partial_design\\right_angle_pliers_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\screw_gun_01\\screw_gun_01.FCStd",
+    "status": "generated",
+    "model_id": "AI_screw_gun_01",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_screw_gun_01\\sketch\\screw_gun_01_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_screw_gun_01\\partial_design\\screw_gun_01_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_screw_gun_01\\partial_design\\screw_gun_01_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_screw_gun_01\\partial_design\\screw_gun_01_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\servo_wheel_360.FCStd",
+    "status": "generated",
+    "model_id": "AI_servo_wheel_360",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360\\sketch\\servo_wheel_360_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360\\partial_design\\servo_wheel_360_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360\\partial_design\\servo_wheel_360_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360\\partial_design\\servo_wheel_360_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\servo_wheel_360_history.FCStd",
+    "status": "generated",
+    "model_id": "AI_servo_wheel_360_history",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360_history\\sketch\\servo_wheel_360_history_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360_history\\partial_design\\servo_wheel_360_history_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360_history\\partial_design\\servo_wheel_360_history_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360_history\\partial_design\\servo_wheel_360_history_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\servo_wheel_360_partdesign.FCStd",
+    "status": "generated",
+    "model_id": "AI_servo_wheel_360_partdesign",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360_partdesign\\sketch\\servo_wheel_360_partdesign_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360_partdesign\\partial_design\\servo_wheel_360_partdesign_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360_partdesign\\partial_design\\servo_wheel_360_partdesign_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\servo_wheel_360\\output\\AI_servo_wheel_360_partdesign\\partial_design\\servo_wheel_360_partdesign_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\smart_glasses_0\\smart_glasses_0.FCStd",
+    "status": "generated",
+    "model_id": "AI_smart_glasses_0",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_smart_glasses_0\\sketch\\smart_glasses_0_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_smart_glasses_0\\partial_design\\smart_glasses_0_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_smart_glasses_0\\partial_design\\smart_glasses_0_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_smart_glasses_0\\partial_design\\smart_glasses_0_partial.step",
+    "outline_method": "bounding_box"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\body_down.FCStd",
+    "status": "generated",
+    "model_id": "AI_body_down",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_body_down\\sketch\\body_down_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_body_down\\partial_design\\body_down_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_body_down\\partial_design\\body_down_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_body_down\\partial_design\\body_down_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\body_up.FCStd",
+    "status": "generated",
+    "model_id": "AI_body_up",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_body_up\\sketch\\body_up_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_body_up\\partial_design\\body_up_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_body_up\\partial_design\\body_up_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_body_up\\partial_design\\body_up_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\coxa_left.FCStd",
+    "status": "generated",
+    "model_id": "AI_coxa_left",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_left\\sketch\\coxa_left_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_left\\partial_design\\coxa_left_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_left\\partial_design\\coxa_left_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_left\\partial_design\\coxa_left_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\coxa_left_new.FCStd",
+    "status": "generated",
+    "model_id": "AI_coxa_left_new",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_left_new\\sketch\\coxa_left_new_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_left_new\\partial_design\\coxa_left_new_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_left_new\\partial_design\\coxa_left_new_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_left_new\\partial_design\\coxa_left_new_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\coxa_right.FCStd",
+    "status": "generated",
+    "model_id": "AI_coxa_right",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_right\\sketch\\coxa_right_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_right\\partial_design\\coxa_right_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_right\\partial_design\\coxa_right_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_right\\partial_design\\coxa_right_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\coxa_right_new.FCStd",
+    "status": "generated",
+    "model_id": "AI_coxa_right_new",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_right_new\\sketch\\coxa_right_new_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_right_new\\partial_design\\coxa_right_new_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_right_new\\partial_design\\coxa_right_new_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_coxa_right_new\\partial_design\\coxa_right_new_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\femur_01.FCStd",
+    "status": "generated",
+    "model_id": "AI_femur_01",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_femur_01\\sketch\\femur_01_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_femur_01\\partial_design\\femur_01_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_femur_01\\partial_design\\femur_01_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_femur_01\\partial_design\\femur_01_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\servo_holder.FCStd",
+    "status": "generated",
+    "model_id": "AI_servo_holder",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_servo_holder\\sketch\\servo_holder_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_servo_holder\\partial_design\\servo_holder_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_servo_holder\\partial_design\\servo_holder_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_servo_holder\\partial_design\\servo_holder_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\tibia_left.FCStd",
+    "status": "generated",
+    "model_id": "AI_tibia_left",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_tibia_left\\sketch\\tibia_left_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_tibia_left\\partial_design\\tibia_left_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_tibia_left\\partial_design\\tibia_left_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_tibia_left\\partial_design\\tibia_left_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\tibia_right.FCStd",
+    "status": "generated",
+    "model_id": "AI_tibia_right",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_tibia_right\\sketch\\tibia_right_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_tibia_right\\partial_design\\tibia_right_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_tibia_right\\partial_design\\tibia_right_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\Spider robot(quad robot, quadruped)-SG90 - 1009659\\files\\AI_tibia_right\\partial_design\\tibia_right_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\text_1\\text_1.FCStd",
+    "status": "generated",
+    "model_id": "AI_text_1",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_text_1\\sketch\\text_1_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_text_1\\partial_design\\text_1_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_text_1\\partial_design\\text_1_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_text_1\\partial_design\\text_1_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\threaded_clamp_block_assembly.FCStd",
+    "status": "generated",
+    "model_id": "AI_threaded_clamp_block_assembly",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_assembly\\sketch\\threaded_clamp_block_assembly_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_assembly\\partial_design\\threaded_clamp_block_assembly_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_assembly\\partial_design\\threaded_clamp_block_assembly_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_assembly\\partial_design\\threaded_clamp_block_assembly_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\threaded_clamp_block_body.FCStd",
+    "status": "generated",
+    "model_id": "AI_threaded_clamp_block_body",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_body\\sketch\\threaded_clamp_block_body_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_body\\partial_design\\threaded_clamp_block_body_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_body\\partial_design\\threaded_clamp_block_body_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_body\\partial_design\\threaded_clamp_block_body_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\threaded_clamp_block_bolt.FCStd",
+    "status": "generated",
+    "model_id": "AI_threaded_clamp_block_bolt",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_bolt\\sketch\\threaded_clamp_block_bolt_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_bolt\\partial_design\\threaded_clamp_block_bolt_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_bolt\\partial_design\\threaded_clamp_block_bolt_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\threaded_clamp_block\\output\\AI_threaded_clamp_block_bolt\\partial_design\\threaded_clamp_block_bolt_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\up_square_down_circle\\up_square_down_circle.FCStd",
+    "status": "generated",
+    "model_id": "AI_up_square_down_circle",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_up_square_down_circle\\sketch\\up_square_down_circle_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_up_square_down_circle\\partial_design\\up_square_down_circle_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_up_square_down_circle\\partial_design\\up_square_down_circle_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_up_square_down_circle\\partial_design\\up_square_down_circle_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\sloped_tray_insert_48x45x20.FCStd",
+    "status": "generated",
+    "model_id": "AI_sloped_tray_insert_48x45x20",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_sloped_tray_insert_48x45x20\\sketch\\sloped_tray_insert_48x45x20_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_sloped_tray_insert_48x45x20\\partial_design\\sloped_tray_insert_48x45x20_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_sloped_tray_insert_48x45x20\\partial_design\\sloped_tray_insert_48x45x20_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_sloped_tray_insert_48x45x20\\partial_design\\sloped_tray_insert_48x45x20_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\tapered_square_standoff_15x15_to_7x7.FCStd",
+    "status": "generated",
+    "model_id": "AI_tapered_square_standoff_15x15_to_7x7",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_tapered_square_standoff_15x15_to_7x7\\sketch\\tapered_square_standoff_15x15_to_7x7_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_tapered_square_standoff_15x15_to_7x7\\partial_design\\tapered_square_standoff_15x15_to_7x7_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_tapered_square_standoff_15x15_to_7x7\\partial_design\\tapered_square_standoff_15x15_to_7x7_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_tapered_square_standoff_15x15_to_7x7\\partial_design\\tapered_square_standoff_15x15_to_7x7_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\vanity_cable_clamp_assembly.FCStd",
+    "status": "generated",
+    "model_id": "AI_vanity_cable_clamp_assembly",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_assembly\\sketch\\vanity_cable_clamp_assembly_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_assembly\\partial_design\\vanity_cable_clamp_assembly_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_assembly\\partial_design\\vanity_cable_clamp_assembly_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_assembly\\partial_design\\vanity_cable_clamp_assembly_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\vanity_cable_clamp_body.FCStd",
+    "status": "generated",
+    "model_id": "AI_vanity_cable_clamp_body",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_body\\sketch\\vanity_cable_clamp_body_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_body\\partial_design\\vanity_cable_clamp_body_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_body\\partial_design\\vanity_cable_clamp_body_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_body\\partial_design\\vanity_cable_clamp_body_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\vanity_cable_clamp_knob_screw.FCStd",
+    "status": "generated",
+    "model_id": "AI_vanity_cable_clamp_knob_screw",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_knob_screw\\sketch\\vanity_cable_clamp_knob_screw_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_knob_screw\\partial_design\\vanity_cable_clamp_knob_screw_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_knob_screw\\partial_design\\vanity_cable_clamp_knob_screw_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\vanity_cable_clamp\\output\\AI_vanity_cable_clamp_knob_screw\\partial_design\\vanity_cable_clamp_knob_screw_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\washstand_01\\washstand_01.FCStd",
+    "status": "generated",
+    "model_id": "AI_washstand_01",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_washstand_01\\sketch\\washstand_01_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_washstand_01\\partial_design\\washstand_01_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_washstand_01\\partial_design\\washstand_01_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_washstand_01\\partial_design\\washstand_01_partial.step",
+    "outline_method": "largest_face_outline"
+  },
+  {
+    "source": "D:\\workspace\\things\\freecad-proctice\\water_pipe\\water_pipe.FCStd",
+    "status": "generated",
+    "model_id": "AI_water_pipe",
+    "sketch": "D:\\workspace\\things\\freecad-proctice\\AI_water_pipe\\sketch\\water_pipe_sketch.FCStd",
+    "partial_design": "D:\\workspace\\things\\freecad-proctice\\AI_water_pipe\\partial_design\\water_pipe_partial.FCStd",
+    "stl": "D:\\workspace\\things\\freecad-proctice\\AI_water_pipe\\partial_design\\water_pipe_partial.stl",
+    "step": "D:\\workspace\\things\\freecad-proctice\\AI_water_pipe\\partial_design\\water_pipe_partial.step",
+    "outline_method": "largest_face_outline"
+  }
+]
